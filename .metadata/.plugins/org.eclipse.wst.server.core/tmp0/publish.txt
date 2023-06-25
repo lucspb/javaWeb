@@ -1,3 +1,3 @@
 #Tomcat publish data
-#Sun Jun 25 10:52:24 BRT 2023
-org.eclipse.jst.jee.server\:Hello\ Tomcat=C\:\\apache-tomcat-9.0.76\\wtpwebapps\\Hello Tomcat
+#Sun Jun 25 12:54:47 BRT 2023
+org.eclipse.jst.jee.server\:Hi\ Servlet=C\:\\apache-tomcat-9.0.76\\wtpwebapps\\Hi Servlet
